@@ -1,0 +1,4 @@
+
+LIBRARY "audioencode"
+EXPORTS
+Add @1
